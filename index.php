@@ -26,7 +26,7 @@
 		</div>
 	<?php }?>
 	<h1>Welcome to my Website</h1>
-	<p>login as admin and create your first page!</p>
+	<p>login as admin and create your first page!!</p>
 		<br>
 		<a class="admin" href="admin">admin</a>
 		</div>
